@@ -1,8 +1,8 @@
 {
   "name": "NervDao",
   "description": {
-    "en": "NervDao is a decentralized application on Nervos Network's CKB, enhancing user interaction with the Nervos DAO. Using wallet abstraction via the Common Chain Connector, it supports wallets like MetaMask, Unisat, OKX Wallet, and JoyID, enabling easy CKB deposits and withdrawals. Users earn rewards while protecting assets from dilution. NervDao offers automatic reward compounding, a one-month minimum lockup, and plans to improve UI, add NFT credentials, and expand wallet support for greater accessibility.",
-    "ch": "NervDAO 是 Nervos 网络 CKB 上的去中心化应用程序，增强用户与 Nervos DAO 的交互。通过 Common Chain Connector 使用钱包抽象，它支持 MetaMask、Unisat、OKX 钱包和 JoyID 等钱包，实现轻松的 CKB 存取款。用户可获得奖励，同时保护资产免受稀释。NervDAO 提供自动奖励复投、一个月最短锁定期，并计划改进 UI、添加 NFT 凭证和扩展钱包支持以提高可访问性。"
+    "en": "NervDao is a decentralized application on Nervos Network's CKB, enhancing user interaction with the Nervos DAO. Using wallet abstraction via the Common Chain Connector, it supports wallets like MetaMask, Unisat, OKX Wallet, and JoyID, enabling easy CKB deposits and withdrawals. Users earn rewards while protecting assets from dilution.",
+    "ch": "NervDAO 是 Nervos 网络 CKB 上的去中心化应用程序，增强用户与 Nervos DAO 的交互。通过 Common Chain Connector 使用钱包抽象，它支持 MetaMask、Unisat、OKX 钱包和 JoyID 等钱包，实现轻松的 CKB 存取款。用户可获得奖励，同时保护资产免受稀释。"
   },
   "titleImage": "/dappDetails/images/nervdao/banner.jpg",
   "logo": "/dappDetails/images/nervdao/logo.jpg",

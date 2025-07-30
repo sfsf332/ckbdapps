@@ -1,8 +1,8 @@
 {
   "name": "Mobit",
   "description": {
-    "en": "Mobit is a decentralized wallet interface on the Nervos Network (CKB) that connects to existing wallets to \"easily and securely transfer assets between Bitcoin and CKB\" using the RGB++ Leap protocol for a \"seamless cross-chain experience.\" Built on CKB's secure Layer 1 and UTXO-based Cell model, Mobit integrates with the JoyID protocol to provide a passwordless, mnemonic-free experience for managing Bitcoin (BTC), Ethereum (ETH), and CKB assets. Announced in July 2024, Mobit enhances cross-chain interoperability and DeFi interactions by leveraging RGB++ Leap for trustless, bridge-free asset transfers, acting as a wrapper to streamline asset management and trading within the Nervos ecosystem.",
-    "ch": "Mobit 是 Nervos 网络 (CKB) 上的去中心化钱包界面，连接现有钱包，使用 RGB++ Leap 协议\"轻松安全地在比特币和 CKB 之间转移资产\"，提供\"无缝跨链体验\"。基于 CKB 安全的第一层和基于 UTXO 的 Cell 模型构建，Mobit 与 JoyID 协议集成，为管理比特币 (BTC)、以太坊 (ETH) 和 CKB 资产提供无密码、无助记词的体验。Mobit 于 2024 年 7 月宣布，通过利用 RGB++ Leap 实现无信任、无桥接的资产转移，增强跨链互操作性和 DeFi 交互，作为包装器简化 Nervos 生态系统内的资产管理和交易。"
+    "en": "Mobit is a decentralized wallet interface on the Nervos Network (CKB) that connects to existing assets management to \"easily and securely transfer assets between Bitcoin and CKB\" using the RGB++ Leap protocol for a \"seamless cross-chain experience.\" Built on CKB's secure Layer 1 and UTXO-based Cell model. Announced in July 2024, Mobit enhances cross-chain interoperability and DeFi interactions by leveraging RGB++ Leap for trustless, bridge-free asset transfers, acting as a wrapper to streamline asset management and trading within the Nervos ecosystem.",
+    "ch": "Mobit 是 Nervos 网络 (CKB) 上的去中心化资产管理器，连接现有钱包，使用 RGB++ Leap 协议\"轻松安全地在比特币和 CKB 之间转移资产\"，提供\"无缝跨链体验\"。基于 CKB 安全的第一层和基于 UTXO 的 Cell 模型构建。Mobit 于 2024 年 7 月宣布，通过利用 RGB++ Leap 实现无信任、无桥接的资产转移，增强跨链互操作性和 DeFi 交互，作为包装器简化 Nervos 生态系统内的资产管理和交易。"
   },
   "titleImage": "/dappDetails/images/mobit/banner.jpg",
   "logo": "/dappDetails/images/mobit/logo.jpg",

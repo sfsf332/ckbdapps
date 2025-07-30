@@ -1,8 +1,8 @@
 {
   "name": "CKBull",
   "description": {
-    "en": "CKBull is a mobile wallet application developed by Peersyst Technology for the Nervos Network (CKB), launched in July 2022. Designed as a non-custodial wallet, it provides a user-friendly interface for managing CKB tokens, tokens bridged via ForceBridge, NFTs, and Nervos DAO deposits. Built on CKB's secure Layer 1 and UTXO-based Cell model, CKBull enables users to create multiple wallets, stake CKB in Nervos DAO to earn rewards, and manage diverse digital assets. The wallet supports both Android and iOS platforms, offering a customizable interface and comprehensive asset management capabilities.",
-    "ch": "CKBull 是由 Peersyst Technology 为 Nervos 网络 (CKB) 开发的移动钱包应用程序，于 2022 年 7 月推出。作为非托管钱包设计，它提供用户友好的界面来管理 CKB 代币、通过 ForceBridge 桥接的代币、NFT 和 Nervos DAO 存款。基于 CKB 安全的第一层和基于 UTXO 的 Cell 模型构建，CKBull 使用户能够创建多个钱包，在 Nervos DAO 中质押 CKB 获得奖励，并管理多样化的数字资产。该钱包支持 Android 和 iOS 平台，提供可定制界面和全面的资产管理功能。"
+    "en": "CKBull is a mobile wallet application developed by Peersyst Technology for the Nervos Network (CKB), launched in July 2022. Designed as a non-custodial wallet, it provides a user-friendly interface for managing CKB tokens, xUDT tokens, and Nervos DAO deposits. Built on CKB's secure Layer 1 and UTXO-based Cell model, CKBull enables users to create multiple wallets, stake CKB in Nervos DAO to earn rewards, and manage diverse digital assets. The wallet supports both Android and iOS platforms, offering comprehensive asset management capabilities.",
+    "ch": "CKBull 是由 Peersyst Technology 为 Nervos 网络 (CKB) 开发的移动钱包应用程序，于 2022 年 7 月推出。作为非托管钱包设计，它提供用户友好的界面来管理 CKB 代币、xUDT 代币和 Nervos DAO 存款。基于 CKB 安全的第一层和基于 UTXO 的 Cell 模型构建，CKBull 使用户能够创建多个钱包，在 Nervos DAO 中质押 CKB 获得奖励，并管理多样化的数字资产。该钱包支持 Android 和 iOS 平台，提供全面的资产管理功能。"
   },
   "titleImage": "/dappDetails/images/ckbull/banner.jpg",
   "logo": "/dappDetails/images/ckbull/logo.png",
